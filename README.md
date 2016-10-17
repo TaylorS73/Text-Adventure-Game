@@ -7,4 +7,4 @@
 # weapon found in plane, crowbar, only found if user searches plane
 # hp system, find food on plane to restore health total health 60hp
 # eating certain berries could restore/poison user based on choices
-# 
+# gay
