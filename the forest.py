@@ -55,7 +55,7 @@ print("88888888888888__8888888__8888888888888    88888888888888__8888888__888888
 time.sleep(0.5)
 print("                 88888                                     88888")
 print("                 88888                                     88888")
-
+time.sleep(1.5)
 print(" ")
 time.sleep(0.5)
 print(" ")
@@ -91,4 +91,8 @@ time.sleep(0.5)
 print(" ")
 time.sleep(0.5)
 print(" Ayyub Lindroos ")
-time.sleep(0.5)
+time.sleep(1.5)
+
+player_name = input ("what is your name? ")
+
+
